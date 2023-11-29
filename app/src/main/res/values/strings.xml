@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChoHan</string>
+    <string name="save">Save&amp;Reset</string>
+    <string name="play">Play</string>
+    <string name="odd">Odd</string>
+    <string name="even">Even</string>
+    <string name="numberSum">Dice sum: %1$s</string>
+    <string name="score">Score %1$s pts</string>
+    <string name="bet">Bet %1$s pts</string>
+    <string name="amount">Amount</string>
+    <string name="OK">OK</string>
+    <string name="newAmount">Write new bet amount</string>
+    <string name="newAmountHint">Number from 0 to current score</string>
+</resources>
